@@ -11,7 +11,7 @@ Java EE 8 - GlassFish 5
 
 Instalación 🔧
 Descargar los Directorios ubicados en https://github.com/cesaralmeciga/OpenCloserUMD/tree/master/WS_OPEN_CLOSER
-![IMAGEN REPOSITORIO](https://raw.githubusercontent.com/cesaralmeciga/OpenCloserUMD/blob/master/Captura1.PNG)
+![IMAGEN REPOSITORIO](https://github.com/cesaralmeciga/OpenCloserUMD/blob/master/Captura1.PNG)
 
 Posteriormente abrirlos en el IDE de preferencia.
 ![IMAGEN IDE]
