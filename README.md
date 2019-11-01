@@ -42,12 +42,15 @@ StringToArray es un metodo encargado de convertir el hash de "String" a un array
 
 
 Construido con 🛠️
+
 JAVA-GLASSFISH
 
 Versionado 📌
+
 VERSION 1.0
 
 Autores ✒️
+
 -Juan Villada
 
 -Cristhian
