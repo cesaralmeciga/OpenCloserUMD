@@ -14,8 +14,7 @@ Descargar los Directorios ubicados en https://github.com/cesaralmeciga/OpenClose
 ![IMAGEN REPOSITORIO](https://github.com/cesaralmeciga/OpenCloserUMD/blob/master/Captura1.PNG)
 
 Posteriormente abrirlos en el IDE de preferencia.
-![IMAGEN IDE]
-(https://raw.githubusercontent.com/cesaralmeciga/OpenCloserUMD/blob/master/Captura2.PNG)
+![IMAGEN IDE](https://github.com/cesaralmeciga/OpenCloserUMD/blob/master/Captura2.PNG)
 
 Codificacion 📖
 OpenCloser.Java
@@ -24,11 +23,11 @@ clase encargada de acceder a las clases locales del Servidor, envio de datos cif
 OpenCloserMetods.Java
 clase contenedora de todos lo metodos Open-Closer blockchain.
 CLOSEBLOCK es un metodo encargado de contener datos concatenados para ser cifrados, ademas de incluir el ciclo referente a la mineria de datos .
-(https://raw.githubusercontent.com/cesaralmeciga/OpenCloserUMD/blob/master/Captura3.PNG)
+(https://github.com/cesaralmeciga/OpenCloserUMD/blob/master/Captura3.PNG)
 CIFRADO es un metodo para cifrar datos con SHA-256.
-(https://raw.githubusercontent.com/cesaralmeciga/OpenCloserUMD/blob/master/Captura4.PNG)
+(https://github.com/cesaralmeciga/OpenCloserUMD/blob/master/Captura4.PNG)
 StringToArray es un metodo encargado de convertir el hash de "String" a un array tipo "Char".
-(https://raw.githubusercontent.com/cesaralmeciga/OpenCloserUMD/blob/master/Captura5.PNG)
+(https://github.com/cesaralmeciga/OpenCloserUMD/blob/master/Captura5.PNG)
 
 
 
