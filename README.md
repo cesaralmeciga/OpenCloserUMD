@@ -4,19 +4,24 @@ Título del Proyecto
 Acá va un párrafo que describa lo que es el proyecto
 
 Comenzando 💻
+
 Este proyecto es un prototipo que simula el funcionamiento del Open-Closer en la base de datos BlockChain
 
 Pre-requisitos 📋
+
 Java EE 8 - GlassFish 5
 
 Instalación 🔧
+
 Descargar los Directorios ubicados en https://github.com/cesaralmeciga/OpenCloserUMD/tree/master/WS_OPEN_CLOSER
 ![IMAGEN REPOSITORIO](https://github.com/cesaralmeciga/OpenCloserUMD/blob/master/Captura1.PNG)
 
 Posteriormente abrirlos en el IDE de preferencia.
+
 ![IMAGEN IDE](https://github.com/cesaralmeciga/OpenCloserUMD/blob/master/Captura2.PNG)
 
 Codificacion 📖
+
 OpenCloser.Java
 clase encargada de acceder a las clases locales del Servidor, envio de datos cifrador y retorno de datos minados ademas de inicializar el WebService.
 
