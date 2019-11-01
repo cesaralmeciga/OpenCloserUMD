@@ -48,8 +48,10 @@ Versionado 📌
 VERSION 1.0
 
 Autores ✒️
-Juan Villada
-Cristhian
-César Alméciga
+-Juan Villada
+
+-Cristhian
+
+-César Alméciga
 
 
