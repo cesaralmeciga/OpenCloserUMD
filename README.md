@@ -1,9 +1,8 @@
 # OpenCloserUMD
 REPOSITORIO PROYECTO OPEN_CLOSER BLOCKCHAIN 
-Título del Proyecto
-Acá va un párrafo que describa lo que es el proyecto
 
-Comenzando 💻
+
+💻
 
 Este proyecto es un prototipo que simula el funcionamiento del Open-Closer en la base de datos BlockChain
 
